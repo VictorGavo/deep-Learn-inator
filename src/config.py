@@ -10,12 +10,13 @@ API_KEYS = {
 
 # File paths for storing data and logs
 FILE_PATHS = {
-    'downloads': './downloads/',  # Path to store downloaded files
-    'transcripts': './transcripts/',  # Path to store audio transcripts
-    'summaries': './summaries/',  # Path to store summaries
-    'markdown': './obsidian/',  # Path to store Markdown files in Obsidian format
-    'logs': './logs/'  # Path for logging information
+    'downloads': r'C:\Users\Victo\Downloads\deep-Learn-inator-Downloads',  # Path to store downloaded files
+    'transcripts': r'C:\Users\Victo\Documents\Projects\deep-Learn-inator\transcripts',  # Path to store audio transcripts
+    'summaries': r'C:\Users\Victo\Documents\Projects\deep-Learn-inator\summaries',  # Path to store summaries
+    'markdown': r'C:\Users\Victo\Documents\Projects\deep-Learn-inator\markdown',  # Path to store Markdown files in Obsidian format
+    'logs': r'C:\Users\Victo\Documents\Projects\deep-Learn-inator\logs'  # Path for logging information
 }
+
 
 # Database configuration
 DATABASE_CONFIG = {
